@@ -131,11 +131,11 @@ MonoBehaviour:
   applyDifferentRecoilOnAiming: 1
   xRecoilAmountOnAiming: 40
   yRecoilAmountOnAiming: 2
-  damagePerBullet: 5
+  damagePerBullet: 8
   applyDamageReductionBasedOnDistance: 0
   minimumDistanceToApplyDamageReduction: 40.3
   damageReductionMultiplier: 1
-  criticalDamageMultiplier: 1.5
+  criticalDamageMultiplier: 10
   limitedMagazines: 0
   totalMagazines: 1
   showBulletShells: 1
@@ -159,6 +159,7 @@ MonoBehaviour:
     emptyMagReload: {fileID: 8300000, guid: 64f2c936c4a2e31499ea708df2383b01, type: 3}
     emptyMagShoot: {fileID: 8300000, guid: 5959d65463fbfe342a9219287eb7315f, type: 3}
   pitchVariationFiringSFX: 0.15
+  grapplesFromTip: 0
   camShakeAmount: 0.15
   camShakeAimMultiplier: 0.8
   camShakeCrouchMultiplier: 0.8

@@ -37,7 +37,7 @@ MonoBehaviour:
   cooledPercentageAfterOverheat: 0
   infiniteBullets: 0
   magazineSize: 4
-  bulletsPerFire: 3
+  bulletsPerFire: 5
   ammoCostPerFire: 1
   bulletRange: 100
   timeBetweenShots: 0
@@ -185,11 +185,11 @@ MonoBehaviour:
   applyDifferentRecoilOnAiming: 0
   xRecoilAmountOnAiming: 0
   yRecoilAmountOnAiming: 0
-  damagePerBullet: 5
+  damagePerBullet: 10
   applyDamageReductionBasedOnDistance: 0
   minimumDistanceToApplyDamageReduction: 0
   damageReductionMultiplier: 0
-  criticalDamageMultiplier: 1.5
+  criticalDamageMultiplier: 10
   limitedMagazines: 0
   totalMagazines: 1
   showBulletShells: 1
@@ -213,6 +213,7 @@ MonoBehaviour:
     emptyMagReload: {fileID: 8300000, guid: a6daf74610796b94fbb00af219b281db, type: 3}
     emptyMagShoot: {fileID: 8300000, guid: 5959d65463fbfe342a9219287eb7315f, type: 3}
   pitchVariationFiringSFX: 0.15
+  grapplesFromTip: 0
   camShakeAmount: 0.21
   camShakeAimMultiplier: 0.8
   camShakeCrouchMultiplier: 0.8

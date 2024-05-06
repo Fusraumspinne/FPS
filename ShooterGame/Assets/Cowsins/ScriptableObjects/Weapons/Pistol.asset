@@ -131,11 +131,11 @@ MonoBehaviour:
   applyDifferentRecoilOnAiming: 1
   xRecoilAmountOnAiming: 40
   yRecoilAmountOnAiming: 2
-  damagePerBullet: 2
+  damagePerBullet: 4
   applyDamageReductionBasedOnDistance: 0
   minimumDistanceToApplyDamageReduction: 40.3
   damageReductionMultiplier: 1
-  criticalDamageMultiplier: 1.5
+  criticalDamageMultiplier: 10
   limitedMagazines: 0
   totalMagazines: 1
   showBulletShells: 1

@@ -11,6 +11,7 @@ TagManager:
   - Ramp
   - BodyShot
   - Ladder
+  - Rocket
   layers:
   - Default
   - TransparentFX
